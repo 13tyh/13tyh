@@ -4,11 +4,16 @@
 
 ## 🌱 プロフィール
 - 👑 **今までと現在**:
-    ・2022年/4月            大学入学
-    ・2022年/9月            大学1年時に一度プログラミングを挫折
-    ・2023/12月から2024/8月まで    YouTube動画編集を副業として半年ほど行いました。
-    ・2024/4月~             HTML,CSS,Javascriptを学び始める。
-    ・現在                  ReactやVue,Typescript,PHPの勉強に取り組んでいます。
+
+  ・2022年/4月            大学入学
+  
+  ・2022年/9月            大学1年時に一度プログラミングを挫折
+  
+  ・2023/12月から2024/8月まで    YouTube動画編集を副業として半年ほど行いました。
+  
+  ・2024/4月~             HTML,CSS,Javascriptを学び始める。
+  
+  ・現在                  ReactやVue,Typescript,PHPの勉強に取り組んでいます。
     
 - ⭐️ **目標**　プログラミングや開発を通じて、技術的＆人間的に成長し、フルスタックエンジニアになることを目指しています！✨
 - 🌱 **学習中**: React,Vue,TypeScript,PHP
@@ -21,7 +26,7 @@
 私が使える技術やツールはこちらです：
 
 - **プログラミング言語**:
-  ![HTML](https://img.shields.io/badge/-HTML5-#E34F26?logo=html5&logoColor=black&style=flat-square)
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
 
